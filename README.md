@@ -57,12 +57,14 @@ Filtragem colaborativa
 Análise das recomendações geradas
 Validação qualitativa dos resultados
 Estrutura do Projeto
+
 ├── recommender_system.py
 ├── notebook_recommendation.ipynb
 ├── data/
 ├── outputs/
 ├── requirements.txt
 └── README.md
+
 Tecnologias Utilizadas
 Python 3.10+
 pandas
