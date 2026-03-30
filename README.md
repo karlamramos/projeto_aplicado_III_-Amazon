@@ -8,7 +8,9 @@ O trabalho foi desenvolvido no contexto da disciplina Projeto Aplicado III – C
 **Autores**
 
 **KARLA MARIA RAMOS DA SILVA (10730503)**
+
 **OSCAR LUZ (10435099)**
+
 **RAFAEL HESSEL SICHETTI (10375395)**
 
 Objetivo do Projeto
