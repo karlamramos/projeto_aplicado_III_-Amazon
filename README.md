@@ -13,7 +13,7 @@ O trabalho foi desenvolvido no contexto da disciplina Projeto Aplicado III – C
 
 **RAFAEL HESSEL SICHETTI (10375395)**
 
-Objetivo do Projeto
+## Objetivo do Projeto
 
 Desenvolver um sistema de recomendação capaz de sugerir produtos fitness relevantes aos usuários, com base em suas interações e avaliações registradas no dataset.
 
@@ -30,7 +30,7 @@ Categoria utilizada:
 
 Sports & Outdoors (produtos fitness)
 
-O dataset contém:
+**O dataset contém:**
 
 usuários (reviewerID)
 produtos (asin)
@@ -38,7 +38,7 @@ avaliações (ratings)
 textos e metadados
 Etapas do Projeto
 
-O projeto segue um pipeline estruturado de ciência de dados:
+## O projeto segue um pipeline estruturado de ciência de dados:
 
 1. Pré-processamento dos dados
 Limpeza dos dados
