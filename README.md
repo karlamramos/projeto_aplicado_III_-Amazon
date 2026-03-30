@@ -1,5 +1,5 @@
-**PROJETO APLICADO III**
-**Sistema de Recomendação de Produtos Fitness**
+## **PROJETO APLICADO III**
+## **Sistema de Recomendação de Produtos Fitness**
 
 Este projeto tem como objetivo o desenvolvimento de um sistema de recomendação de produtos fitness, utilizando técnicas de ciência de dados e aprendizado de máquina aplicadas a dados reais de interações entre usuários e produtos da Amazon.
 
