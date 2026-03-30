@@ -59,10 +59,15 @@ Validação qualitativa dos resultados
 Estrutura do Projeto
 
 ├── recommender_system.py
+
 ├── notebook_recommendation.ipynb
+
 ├── data/
+
 ├── outputs/
+
 ├── requirements.txt
+
 └── README.md
 
 Tecnologias Utilizadas
